@@ -6,7 +6,6 @@ Here are somethings you might want to know about me...
 - 🔭 I’m currently working on ...Ansible playbooks 
 - 🌱 I’m currently learning ...Python 
 - 👯 I’m looking to collaborate on ...building dynamic repositories 
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...shell scripting, Maven, & Cloud Engineering 
 - ⚡ Fun fact: ...writer, traveller, extroverted introvert
 
