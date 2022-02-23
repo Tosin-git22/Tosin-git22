@@ -1,6 +1,6 @@
-pexels-vincent-gerbouin-2263683.jpg
 
 ### Hi there, it's Tosin!!! 👋
+pexels-vincent-gerbouin-2263683.jpg
 
 Here are somethings you might want to know about me...
 
